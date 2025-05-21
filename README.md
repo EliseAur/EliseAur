@@ -22,7 +22,7 @@ I'm Elise, a frontend developer with a background in teaching and a love for des
 ## Projects
 Here are a few projects I've worked on:
 - 🖼️ **Portfolio 2**: My final project in studies, showcasing my skills and growth as a frontend developer.
-  - [Live site](https://https://elise-aurtande.netlify.app/)
+  - [Live site](https://elise-aurtande.netlify.app/)
   - [View Code](https://github.com/EliseAur/portfolio-2.git)
 - 🌴**Holidaze**: Is a the Project Exam 2, A platform for booking holiday accommodations and hosting venues. Built with **React** and **Tailwind CSS**. Supported by the **Noroff API**. 
   - [Live site](https://elise-holidaze.netlify.app/)
